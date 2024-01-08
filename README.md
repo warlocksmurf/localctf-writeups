@@ -1,5 +1,9 @@
 # Just me participating in various CTF competitions
 
+Test your OSINT skills and find me in this picture!
+
+![1700621770319](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/d31c0432-b3af-4a31-a503-d508cad49b74)
+
 ## 2024
 
 ## 2023
