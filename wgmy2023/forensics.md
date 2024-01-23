@@ -77,8 +77,3 @@ The output:
 After that, just upload the output to Cyberchef to obtain the flag.
 
 ![image](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/15b851ee-8893-49e6-9299-e0ebf0f62497)
-
-# Scoreboard
-## Team HLG
-
-![wargames](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/1b411d1d-1379-4e38-8faf-f6d8b78a9c3f)
