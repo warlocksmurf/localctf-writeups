@@ -1,4 +1,4 @@
-# Forensics
+# Solution
 ## Challenge 1
 The challenge wants us to find the flag inside a zip file that contents several directories. 
 
