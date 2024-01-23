@@ -1,4 +1,4 @@
-# Cryptography
+# Solution
 ## Challenge 1
 The challenge wants us to decipher the flag with AES decryption.
 
