@@ -154,14 +154,14 @@ Referring back to the pdf file, it also mentions that employees must "eradicate"
 
 ![image](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/ce6568ab-8e52-44d5-aa14-98603036305e)
 
-Since I am using Volatility3, I could not proceed further. So I will just use @Encient write-up pictures as reference for the other steps. Using the MFT parser in Volatility2, we can find the flag.txt content encoded in base64.
+Since Volatility3 does not have mftparser, I could not proceed further. So I used Volatility2 on my Windows OS with mftparser plugin and parsed the MFT data into a text file.
 
 ```
 vol.py -f memdump.raw --profile=Win7SP1x64 mftparser > mft.txt
 ```
 
-After parsing the MFT logs, we can either grep `txt` or `Recycle` to get the flag.txt content.
+After parsing the MFT data, we can either grep `.txt` or `$Recycle` to locate the flag file.
 
-![image](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/7891d8ec-3d6d-4fb1-a308-7866d74ca5be)
+![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/a3692813-24ca-49f4-9e55-775faa7c15d0)
 
 ![image](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/d1f413e9-e086-47cc-819f-51cb9d4e5a6c)
