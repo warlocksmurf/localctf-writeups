@@ -1,4 +1,4 @@
-# Forensics
+# Solution
 ## Challenge 2
 We are given a ``eerie-area.pcapng`` file for this challenge. The first thing that I always do is to filter and analyze important protocols first like HTTP or DNS.
 
