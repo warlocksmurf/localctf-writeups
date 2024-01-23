@@ -35,10 +35,3 @@ When checking the monthly leaderboards (November), we can see that his account w
 The flag: ``gohunikl2023{Y0u_F0und_M3}``
 
 ![image](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/4fb84283-f0ae-4959-8258-0031ddbb4d7d)
-
-
-
-
-# Scoreboard
-## Team Perseus
-![image](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/db8e8995-ae82-49e5-833e-d0182268231a)
