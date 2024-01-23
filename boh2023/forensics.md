@@ -1,4 +1,4 @@
-# Forensics
+# Solution
 ## Challenge 1
 The challenge gives us a ZIP file to crack. Unfortunately I could not solve this during the competition but I attempted it at home. Thanks @Zack (the author) for his tip on bkcrack!
 
