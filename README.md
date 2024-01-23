@@ -1,4 +1,4 @@
-# Just me participating in various CTF competitions
+# Welcome to my CTF journey in Malaysia!
 
 Test your OSINT skills and find me in this picture!
 
