@@ -1,23 +1,29 @@
-# OSINT
+# Solution
 ## Challenge 1
-The challenge asked us to find the registration number of a flute. Google it.
+The challenge asked us to find the registration number of a specific flute. Google it.
 
 ![flute](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/385ed7f3-db39-445a-b3a5-f73691542759)
 
 ## Challenge 2
-The challenge asked us to find a specific card with its card name, error type and grade. The challenge provided us a CGC cert number to start off. Ok we know the card name and number, but it seems that the error type and grade is not present for some reason.
+The challenge asked us to find a specific card with its card name, error type and grade. 
 
-<img src="https://github.com/warlocksmurf/ctf-writeups/assets/121353711/6abd73b5-b584-47e2-91c9-7f10ad99c44c" alt="pokemon1">
+A CGC cert number `4302093025` was provided to start our search, so I used the official CGC card verifier to identify the card.
 
-So I tried to just Google the cert number for Charizard VSTAR and found an Instagram reel on a charizard card error. Zooming into the card, the cert number proves that this is the card we are looking for, and hence the flag too.
+![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/063efe90-8dd4-483f-a60a-aa835d05cd71)
+
+After verifying the card cert, we can identify the name and number of the card, but it seems that the error type and grade is not present for some reason. So I tried to just Google the cert number and found a video on a Charizard VSTAR card error.
+
+![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/54676bef-7e63-40a5-9d2f-78bfb170c47e)
+
+Zooming into the card, the cert number proves that this is the card we are looking for, and hence the flag too.
 
 <p float="left">
-  <img src="https://github.com/warlocksmurf/ctf-writeups/assets/121353711/6fe90353-0066-478b-8de1-77127eb4a70c" alt="pokemon2" width=60% />
-  <img src="https://github.com/warlocksmurf/ctf-writeups/assets/121353711/531cb360-f9bb-40ee-a839-1744c6d9b838" alt="spy-kids-lemme-zoom-in-on-that" width=39% />
+  <img src="https://github.com/warlocksmurf/localctf-writeups/assets/121353711/b555550b-764f-47b3-b9ed-e8d5999e07ba" alt="pokemon2" />
+  <img src="https://github.com/warlocksmurf/ctf-writeups/assets/121353711/531cb360-f9bb-40ee-a839-1744c6d9b838" alt="spy-kids-lemme-zoom-in-on-that" />
 </p>
 
 ## Challenge 3
-The challenge asked us to find a specific location shown in 2 videos (Kpop MV and the LCK trailer). Watching the videos carefully, it seems that the location shown in both videos is a container yard.
+The challenge asked us to find a specific location shown in these two videos `Kpop MV` and `the LCK trailer`. Watching the videos carefully, it seems that the location shown in both videos is a container yard.
 
 ![kpop](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/bc836ad4-b024-4323-999e-61e18a60e602)
 
@@ -30,7 +36,7 @@ So I tried reverse searching the LCK image and got the exact location in the fir
 ![korea](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/0aba5b91-fd48-4fc1-a9e6-282610c310d2)
 
 ## Challenge 4
-The challenge asked us to find the stations between the person in the picture. Sadly I could not solve this before the CTF ended, so I attempted it at home.
+The challenge asked us to find the two specific stations between the person in the picture. Sadly I could not solve this before the CTF ended, so I attempted it at home.
 
 ![Sky_Full_of_ _Cables](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/bf5a954e-e658-4aeb-bc3b-8a9b2cfde0d1)
 
