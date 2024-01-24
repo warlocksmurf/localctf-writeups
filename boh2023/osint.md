@@ -17,10 +17,10 @@ After verifying the card cert, we can identify the name and number of the card, 
 
 Zooming into the card, the cert number proves that this is the card we are looking for, and hence the flag too.
 
-<p float="left">
+<div style="text-align:center;">
   <img src="https://github.com/warlocksmurf/localctf-writeups/assets/121353711/b555550b-764f-47b3-b9ed-e8d5999e07ba" alt="pokemon2" />
   <img src="https://github.com/warlocksmurf/ctf-writeups/assets/121353711/531cb360-f9bb-40ee-a839-1744c6d9b838" alt="spy-kids-lemme-zoom-in-on-that" />
-</p>
+</div>
 
 ## Challenge 3
 The challenge asked us to find a specific location shown in these two videos `Kpop MV` and `the LCK trailer`. Watching the videos carefully, it seems that the location shown in both videos is a container yard.
