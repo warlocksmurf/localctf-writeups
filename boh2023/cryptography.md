@@ -50,7 +50,7 @@ C: 76235511259622242130982516644606744812188609354406845879515604425532508128669
 e: 3
 ```
 
-So I created my own decryption script (with ChatGPT). After using the decryption script, the flag will be created as flag.txt.
+So I created a decryption script with ChatGPT to obtain flag.
 
 Decryption script:
 ```
