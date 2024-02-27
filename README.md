@@ -4,8 +4,7 @@
 ## 2024
 
 ## 2023
-
-* [PwC Hack A Day - Securing AI](https://github.com/warlocksmurf/ctf-writeups/blob/main/hackaday2023) (7 November 2023)
-* [UniKL Game of Hackers](https://github.com/warlocksmurf/ctf-writeups/blob/main/goh2023) (21 November 2023)
-* [APU Battle of Hackers](https://github.com/warlocksmurf/ctf-writeups/blob/main/boh2023) (2 December 2023)
 * [Wargames.MY](https://github.com/warlocksmurf/ctf-writeups/blob/main/wgmy2023) (16 December 2023)
+* [APU Battle of Hackers](https://github.com/warlocksmurf/ctf-writeups/blob/main/boh2023) (2 December 2023)
+* [UniKL Game of Hackers](https://github.com/warlocksmurf/ctf-writeups/blob/main/goh2023) (21 November 2023)
+* [PwC Hack A Day - Securing AI](https://github.com/warlocksmurf/ctf-writeups/blob/main/hackaday2023) (7 November 2023)
