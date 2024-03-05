@@ -1,1 +1,4 @@
-yo
+# Scoreboard
+## Team HLG
+
+
