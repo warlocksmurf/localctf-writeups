@@ -2,7 +2,7 @@
 @Shen completed all web challenges and even first blooded one of them, so credits for him on the web category writeup.
 
 # Task 1: Hidden Discord
-Question: Starting point: (https://discord[.]gg/7aMtftbDY4)
+Question:
 
 Flag: `RWSC{J4CKP0T}`
 
