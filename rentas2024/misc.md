@@ -24,3 +24,9 @@ For part 2 and 4, my teammate @Shen helped find them with special plugins. After
 
 ![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/33de9c7e-c419-4679-8c8b-1f395b331bb9)
 
+For the last part of the flag, it is in the server icon. So just use Discord on browser and inspect the icon and change the size of it.
+
+The server icon:
+```
+https://cdn.discordapp.com/icons/1202263455466541096/bfa6d5f2ed8067d3367791ed5b4d6941.webp?size=1024
+```
