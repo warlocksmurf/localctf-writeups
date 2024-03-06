@@ -1,7 +1,7 @@
 # Task 1: Mobile
 Question: Below are the phone that has been physicaly extracted (full memory extraction). Somehow the data has been tampered, however the question is super easy. The flag is RWSC{passwordphone} (< dont submit this flag, its a clue).
 
-Hint: [Youtube Video](https://youtu.be/icBD5PiyoyI?si=kHJob6ow7h7frjMh)
+Hint: [Hacking a Samsung Galaxy for $6,000,000 in Bitcoin!?](https://youtu.be/icBD5PiyoyI?si=LUV16WHkvm0hTdVk)
 
 Flag: `RWSC{875463120}`
 
