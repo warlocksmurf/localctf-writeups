@@ -7,7 +7,11 @@ Hint(s):
 
 Flag: `RWSC{Bl4cky_S1c4r1o}`
 
-We are given an image of the Medellín Cartel tree. No offence but this OSINT challenge was guessy, without the hint I would have never know we are looking for `Nelson Hernandez` and especially on Instagram. However, since we got the hint already, it was actually super simple. First find his Instagram profile, thank god he was the only person with `blacky` if not it will take awhile.
+We are given an image of the Medellín Cartel tree. 
+
+![organization](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/8a13289c-b261-473b-8d2a-49e51cc5b1ac)
+
+No offence but this OSINT challenge was guessy, without the hint I would have never know we are looking for `Nelson Hernandez` and especially on Instagram. However, since we got the hint already, it was actually super simple. First find his Instagram profile, thank god he was the only person with `blacky` if not it will take awhile.
 
 ![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/b1b00061-44bd-40d6-b288-40a5446fab49)
 
@@ -22,6 +26,10 @@ Question: Unlike Medellin Cartel, the Cali Cartel rootcause of their falldown is
 
 Flag: `RWSC{C4L1_C4RT3L_PWN3D}`
 
-We are given an image of a strange looking business operation (probably drugs). Reading the description, it seems that I must be looking for information on the `Cali Cartel`. Doing some research on them, it seems that their downfall was caused by an insider betrayal, specifically from [Jorge Salcedo](https://www.seattletimes.com/nation-world/a-daring-betrayal-helped-wipe-out-cali-cocaine-cartel/). So I went ahead and lookup the betrayer's name and got lucky when filtering with the flag.
+We are given an image of a strange looking business operation (probably drugs). Reading the description, it seems that I must be looking for information on the `Cali Cartel`.
+
+![Cali_chart2](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/0e476133-4b40-4eee-be25-430bcf9f882c)
+
+Doing some research on them, it seems that their downfall was caused by an insider betrayal, specifically from [Jorge Salcedo](https://www.seattletimes.com/nation-world/a-daring-betrayal-helped-wipe-out-cali-cocaine-cartel/). So I went ahead and lookup the betrayer's name and got lucky when filtering with the flag.
 
 ![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/0250fd69-e05f-4926-a622-76c202f8ee68)
