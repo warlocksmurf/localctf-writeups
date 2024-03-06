@@ -30,6 +30,6 @@ We are given an image of a strange looking business operation (probably drugs). 
 
 ![Cali_chart2](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/0e476133-4b40-4eee-be25-430bcf9f882c)
 
-Doing some research on them, it seems that their downfall was caused by an insider betrayal, specifically from [Jorge Salcedo](https://www.seattletimes.com/nation-world/a-daring-betrayal-helped-wipe-out-cali-cocaine-cartel/). So I went ahead and lookup the betrayer's name and got lucky when filtering with the flag.
+Doing some research on them, it seems that their downfall was caused by an insider betrayal, specifically from [Jorge Salcedo](https://www.seattletimes.com/nation-world/a-daring-betrayal-helped-wipe-out-cali-cocaine-cartel/). So I went ahead and lookup the betrayer's name and got lucky when using Google Dorking.
 
 ![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/0250fd69-e05f-4926-a622-76c202f8ee68)
