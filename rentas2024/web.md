@@ -1,7 +1,7 @@
 # Credits
 @Shen completed all web challenges and even first blooded one of them, so credits for him on the web category writeup.
 
-# Task 1: Hidden Discord
+# Task 1: bring your own script
 Question:
 
 Flag: `RWSC{J4CKP0T}`
@@ -80,3 +80,10 @@ Flag on: https://byos.ctf.rawsec.com/root/%F0%9F%A4%A4%F0%9F%A4%95%F0%9F%98%83/%
 ```
 
 ![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/efc696a8-7f06-4431-a017-e89fe3197486)
+
+# Task 2: 
+Question:
+
+Flag: `RWSC{}`
+
+We are given a website that has multiple directories and the flag should be located in one of them. He made a script to brute force each path and found out the flag was actually an image.
