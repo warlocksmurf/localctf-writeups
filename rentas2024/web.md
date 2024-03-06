@@ -106,7 +106,7 @@ https://simplelazy.ctf.rawsec.com/index.php?page=php://filter/convert.iconv.UTF8
 # Task 3: La Itu Je!
 Question:
 
-Flag: `RWSC{b045887cbadfda25b29db243a18de38cb1cbfb14}` **First Blood**
+Flag: `RWSC{b045887cbadfda25b29db243a18de38cb1cbfb14}`
 
 We are given a website that has a login form. First we will register an account under /register.php (the endpoint can be fuzzed or located in a comment on the login page).
 
