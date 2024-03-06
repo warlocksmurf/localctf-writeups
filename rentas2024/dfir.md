@@ -5,7 +5,7 @@ Hint: [Hacking a Samsung Galaxy for $6,000,000 in Bitcoin!?](https://youtu.be/ic
 
 Flag: `RWSC{875463120}`
 
-We are given a report on a forensics case on Android, specifically Lenovo P70. Before the hints were given, I actually read the reports slowly TWICE and found nothing of interest. 
+We are given a report on a forensics case on Android, specifically Lenovo P70. Before the hints were given, I actually read the reports slowly **TWICE** and found nothing of interest. 
 
 
 ![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/daebd484-8c47-495d-bcf0-3a832777f936)
