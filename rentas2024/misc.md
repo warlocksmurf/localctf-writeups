@@ -20,13 +20,14 @@ Find the CATegory? :black_cat: :cat2:
 roles :question:
 ```
 
-For part 2 and 4, my teammate @Shen helped find them with special plugins. After finding this [video](https://www.youtube.com/watch?v=3s7YFN-nT3Q) about [BetterDiscord](https://betterdiscord.app/), he managed to get part 2 and 4 of the flag.
+For part 2 and 4, my teammate @Shen helped find them with special plugins. After finding this [video](https://www.youtube.com/watch?v=3s7YFN-nT3Q) about a [plugin](https://github.com/JustOptimize/return-ShowHiddenChannels) with BetterDiscord to see hidden channels, he managed to get part 2 and 4 of the flag.
 
-![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/33de9c7e-c419-4679-8c8b-1f395b331bb9)
+![hidden](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/4cade388-e7c9-4802-9a8e-7c8402f1e01a)
 
 For the last part of the flag, it is in the server icon. So just use Discord on browser and inspect the icon and change the size of it.
 
-The server icon:
 ```
 https://cdn.discordapp.com/icons/1202263455466541096/bfa6d5f2ed8067d3367791ed5b4d6941.webp?size=1024
 ```
+
+![bfa6d5f2ed8067d3367791ed5b4d6941](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/1f9f5e51-6e8f-448f-ad6a-1ae8b4986031)
