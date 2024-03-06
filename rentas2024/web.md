@@ -64,6 +64,19 @@ if __name__ == "__main__":
 
 ```
 
-![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/b503ebbb-0cc6-4897-b759-d1b2a47030f9)
+```
+...
+Visiting: https://byos.ctf.rawsec.com/root/🤤🤕😃/😌/🥺😄/🤒🤯🤕/index.php
+Visiting: https://byos.ctf.rawsec.com/root/🤤🤕😃/😌/🥺😄/🤒🤯🤕/😏/index.php
+Visiting: https://byos.ctf.rawsec.com/root/🤤🤕😃/😔😁😕😵/index.php
+Visiting: https://byos.ctf.rawsec.com/root/🤤🤕😃/😔😁😕😵/😺😪🥴😇/index.php
+Visiting: https://byos.ctf.rawsec.com/root/🤤🤕😃/😔😁😕😵/😺😪🥴😇/😳🤕/index.php
+Visiting: https://byos.ctf.rawsec.com/root/🤤🤕😃/😔😁😕😵/😺😪🥴😇/😳🤕/👾/index.php
+Visiting: https://byos.ctf.rawsec.com/root/🤤🤕😃/😔😁😕😵/😺😪🥴😇/🥰🥶🤣😂/index.php
+Visiting: https://byos.ctf.rawsec.com/root/🤤🤕😃/😔😁😕😵/😺😪🥴😇/🥰🥶🤣😂/😅/index.php
+Visiting: https://byos.ctf.rawsec.com/root/🤤🤕😃/😔😁😕😵/😺😪🥴😇/🥰🥶🤣😂/😅😡/index.php
+Visiting: https://byos.ctf.rawsec.com/root/🤤🤕😃/😔😁😕😵/😺😪🥴😇/🥰🥶🤣😂/🤧😅/index.php
+Flag on: https://byos.ctf.rawsec.com/root/%F0%9F%A4%A4%F0%9F%A4%95%F0%9F%98%83/%F0%9F%98%94%F0%9F%98%81%F0%9F%98%95%F0%9F%98%B5/%F0%9F%98%BA%F0%9F%98%AA%F0%9F%A5%B4%F0%9F%98%87/%F0%9F%A5%B0%F0%9F%A5%B6%F0%9F%A4%A3%F0%9F%98%82/%F0%9F%A4%A7%F0%9F%98%85/index.php
+```
 
 ![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/efc696a8-7f06-4431-a017-e89fe3197486)
