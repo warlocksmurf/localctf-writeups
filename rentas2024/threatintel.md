@@ -35,11 +35,15 @@ Flag: `RWSC{rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad}`
 
 Reading the description, it seems that they are referring to a pretty recent ransomware called `Rhysida`. Reading about it, I found a [blog](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-319a) that talks about it and also all the C2 IPs it connects to. I also found out that they operate in the Dark Web where they sell the information they stole from victims. 
 
-![fig6a-rhysida-recent-victim](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/85f9e610-5492-4e01-ac9e-7da1ce3be0c1)
+<p align="center">
+  <img src="https://github.com/warlocksmurf/localctf-writeups/assets/121353711/85f9e610-5492-4e01-ac9e-7da1ce3be0c1" width=50% height=50%>
+</p>
 
-This was kind of guessy cause no where in the question mentioned Telegram, but after receiving the hint, I went on Telegram and search `Rhysida` and found a chat room with a sameple flag.
+  This was kind of guessy cause no where in the question mentioned Telegram, but after receiving the hint, I went on Telegram and search `Rhysida` and found a chat room with a sameple flag.
 
-![Screenshot_20240306_085725_Telegram](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/79a9d200-5ea4-4b13-b393-b5fe16d77c9b)
+<p align="center">
+  <img src="https://github.com/warlocksmurf/localctf-writeups/assets/121353711/79a9d200-5ea4-4b13-b393-b5fe16d77c9b" width=50% height=50%>
+</p>
 
 Reading the chat, it seems that the flag is the mirror link of their onion page. This can be obtained in many sources like [this](https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md)
 
