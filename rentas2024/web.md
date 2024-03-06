@@ -114,6 +114,7 @@ We are given a website that has a login form. First we will register an account 
 
 
 Accessing the get flag endpoint will require a code to be submitted. Vieweing the page source, we can find an obsfucated js file which reveals that we have to send a POST request to dashboard.php to get a valid code.
+
 ![image](https://hackmd.io/_uploads/r11oj8ST6.png)
 
 After, we were stuck and only once hints were released we solved the chal. The server will curl the value in the Host paramater. After getting the correct code, we can inject our server into the Host header to receive the flag.
@@ -121,7 +122,3 @@ After, we were stuck and only once hints were released we solved the chal. The s
 ![image](https://hackmd.io/_uploads/SJgphLHpa.png)
 
 ![image](https://hackmd.io/_uploads/ry9v2Lrpa.png)
-
-```
-RWSC{b045887cbadfda25b29db243a18de38cb1cbfb14}
-```
