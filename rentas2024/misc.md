@@ -1,7 +1,7 @@
 # Task 1: Hidden Discord
 Question: Starting point: (https://discord[.]gg/7aMtftbDY4)
 
-Flag: `RWSC{r34d_d15c0rd_d3v3l0p3r_API_ r3f3r3nc3}`
+Flag: `RWSC{r34d_d15c0rd_d3v3l0p3r_API_r3f3r3nc3}`
 
 We are given a link to join a Discord server. Inside the server, the admin mentioned that there are 5 parts of the flag throughout the server.
 
@@ -20,5 +20,7 @@ Find the CATegory? :black_cat: :cat2:
 roles :question:
 ```
 
-For part 2 and 4, my teammate @Shen helped find them with special plugins. After finding this [video](https://www.youtube.com/watch?v=3s7YFN-nT3Q) about
+For part 2 and 4, my teammate @Shen helped find them with special plugins. After finding this [video](https://www.youtube.com/watch?v=3s7YFN-nT3Q) about [BetterDiscord](https://betterdiscord.app/), he managed to get part 2 and 4 of the flag.
+
+![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/33de9c7e-c419-4679-8c8b-1f395b331bb9)
 
