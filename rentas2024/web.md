@@ -122,3 +122,6 @@ After, we were stuck and only once hints were released we solved the chal. The s
 ![image](https://hackmd.io/_uploads/SJgphLHpa.png)
 
 ![image](https://hackmd.io/_uploads/ry9v2Lrpa.png)
+
+![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/14f1a975-5f3e-41e0-81a6-229c3c4b4df4)
+
