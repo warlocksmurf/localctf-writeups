@@ -1,8 +1,5 @@
 # Solution
 ## Challenge 1
-
-Flag: `ABOH23{A3S_Rul35_tH3_F0rc3}`
-
 The challenge wants us to decipher the flag with AES decryption.
 
 Encryption script:
@@ -93,9 +90,6 @@ decrypt_file(encrypted_file_path, password)
 
 
 ## Challenge 2
-
-Flag: `ABOH23{rocky0ubrr!}`
-
 This challenge wants us to decipher the flag with SageMath. This challenge was done by my teammate @Damien
 
 Reading the code, we see that this is an RSA implementation with small `e = 3` and when the exponent of RSA is small, it is vulnerable to `Coppersmith Attack`.
