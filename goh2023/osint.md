@@ -1,12 +1,13 @@
-# Solution
-## Challenge 2
-The challenge gave us an image only. So of course I have to reverse search it for more information.
+# Task 1: Find me
+Question: 
+
+Flag: `gounikl2023{Y0u_F0und_M3}`
+
+The challenge gave us an image to investigate, so of course I had to reverse search it for more information.
 
 ![Free! - Study Hard by GothicShoujo on DeviantArt](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/fba4714d-5047-4e63-8090-8b6278cb51be)
 
-Google reverse search will lead us to a Pinterest website: `https://www.pinterest.com/pin/402016704213891878/`
-
-Notice how there is a user (Liciela) that liked the image, we then go to their profile.
+Google reverse search will lead us to a [Pinterest page](https://www.pinterest.com/pin/402016704213891878/). Notice how there is a user `Liciela` that liked the image, we then go to their profile.
 
 ![image](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/a9588061-0163-4aa2-86f0-15161df07410)
 
