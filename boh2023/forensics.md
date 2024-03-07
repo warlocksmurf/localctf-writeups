@@ -1,8 +1,5 @@
 # Solution
 ## Challenge 1
-
-Flag: ``
-
 The challenge gives us a ZIP file to crack. Unfortunately I could not solve this during the competition but I attempted it at home. Thanks @Zack (the author) for his tip on bkcrack!
 
 Inside the zip file, we can see multiple files. By analyzing the zip file, we find out that the zip is encrypted with ZipCrypto Store method which is vulnerable to the plaintext attack. So to crack the zip password, we can the bkcrack tool.
@@ -16,9 +13,6 @@ Since the host file will always have ``# Copyright (c) 1993-2009 Microsoft Corp.
 ![answer](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/06cb42ab-7f17-4e6a-8d1f-2418a394b028)
 
 ## Challenge 2
-
-Flag: `ABOH23{d!ff1cU17_s0Ng_FROm_hEaRtBrE4K}`
-
 The challenge gives us an obfuscated powershell function. After deobfuscating it, the flag seems to be cut into two.
 
 ```
@@ -94,9 +88,6 @@ With the two URLs, the flag can be obtained.
 ![image](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/0c20358b-31d0-4185-a3b7-bc46c3b36fd9)
 
 ## Challenge 3
-
-Flag: `ABOH23{pER5!St3NCE_!5_my_ninj@_waY}`
-
 The challenge wants us to analyze a E01 file from a compromised Windows machine. Hence I will use autopsy for this challenge.
 
 Analyzing the image, a credentials.txt file was found in the Desktop (sus...) and it shows the username and passwords of several users.
@@ -141,9 +132,6 @@ $chars[0] + $chars[1] + $chars[14] + $chars[7] + $chars[54] + $chars[55] + $char
 ![image](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/7794d3f2-627c-46b1-b862-f18266e2afef)
 
 ## Challenge 4
-
-Flag: `ABOH23{C0NT41nm3Nt_Breach_8Y_M@cr0$}`
-
 For this challenge we had to perform memory forensics on a memory dump. Unfortunately I could not solve this during the competition but I attempted it at home. Thanks @Encient for her writeup!
 
 Reading the pdf file given, it says that employees are required to backup data including documentation, images, videos, etc.
