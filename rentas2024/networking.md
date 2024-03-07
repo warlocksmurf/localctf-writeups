@@ -5,7 +5,7 @@ Hint: Have you ever used Aircrack?
 
 Flag: `RWSC{anonymous}`
 
-We are given a pcap file that consist of only wireless packets. Since the flag requires the password, it was obvious we had to crack the password is `Aircrack-ng`.
+We are given a pcap file that consist of only wireless packets. Since the flag requires the password, it was obvious we had to crack the password with `aircrack-ng`.
 
 ```
 └─$ aircrack-ng RAWSECWIFI-01.cap -w /usr/share/wordlists/rockyou.txt
