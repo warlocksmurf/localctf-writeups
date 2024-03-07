@@ -1,6 +1,9 @@
-# Solution
-## Challenge 2
-We are given a ``eerie-area.pcapng`` file for this challenge. The first thing that I always do is to filter and analyze important protocols first like HTTP or DNS.
+# Task 1: The realm of Eerie Area
+Question: In this mysterious realm, a malevolent force is at play. Uncover the hidden malevolence within. Figure out the dark secrets the area holds.
+
+Flag: `gohunikl2023{p3ek_4_&0o}`
+
+We are given a pcap file for this challenge. The first thing that I always do is to filter and analyze important protocols first like HTTP or DNS.
 
 ![image](https://github.com/warlocksmurf/ctf-writeups/assets/121353711/9c740c00-88fa-47f6-b458-69544433f6bd)
 
