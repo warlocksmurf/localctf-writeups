@@ -1,5 +1,5 @@
-# Task 1: The realm of Eerie Area
-Question: In this mysterious realm, a malevolent force is at play. Uncover the hidden malevolence within. Figure out the dark secrets the area holds.
+# Solution
+## Challenge 1
 
 Flag: `gohunikl2023{p3ek_4_&0o}`
 
