@@ -5,12 +5,11 @@ Hint: [Hacking a Samsung Galaxy for $6,000,000 in Bitcoin!?](https://youtu.be/ic
 
 Flag: `RWSC{875463120}`
 
-We are given a report on a forensics case on Android, specifically Lenovo P70. Before the hints were given, I actually read the reports slowly **TWICE** and found nothing of interest. 
-
+We are given a report on a forensics case on Android, specifically Lenovo P70. Before the hints were given, I actually read the reports slowly **TWICE** and found nothing of interest. I noticed several artifacts like photos of a car, photos of Malaysian guys, bootup screenshots, and several Android icon caches.
 
 ![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/daebd484-8c47-495d-bcf0-3a832777f936)
 
-I noticed several artifacts like photos of a car, photos of Malaysian guys, bootup screenshots, and several Android icon caches. Using almost all my attempts, I was blessed with the hint from the authors and watched the video carefully. The video talked about a guy cracking the password pattern for an Android phone by analyzing its system files. So the hint was pretty obvious already, the password we are looking for is actually a password pattern, not a PIN or a password string.
+Using almost all my attempts, I was blessed with the hint from the authors and watched the video carefully. The video talked about a guy cracking the password pattern for an Android phone by analyzing its system files. So the hint was pretty obvious already, the password we are looking for is actually a password pattern, not a PIN or a password string.
 
 ![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/787778e0-fb1f-446f-88d3-76fd4412c791)
 
