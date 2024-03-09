@@ -1,7 +1,7 @@
 # Task 1: Hidden zombie
 Question:
 
-Flag: ``
+Flag: `RWSC{z0mb13_4tt4ck_1nc0m1ng}`
 
 We are given a png image file of a zombie. Unfortunately, I could not solve this during the CTF. But looking back at the challenge, it was actually pretty simple (and it's definitely not DFIR ffs). The first thing I always do is to use `pngcheck` to check for any errors in the png image. It mentions that there are errors on the `IHDR` chunk so I went to fix it.
 
