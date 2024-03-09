@@ -12,4 +12,6 @@ Can you hack the device physically and look for any bugs according to info given
 
 Flag: RWSC{ILUVU1337}
 
-Reading the question, it seems that we have to perform buffer overflow on the sensor. Since the memory can only hold 700 MB and it loads a new set of data every minute, we placed the sensor for 7 minutes and the flag can be obtained.
+Reading the question, it seems that we have to perform buffer overflow on the sensor since the memory can only hold 700 MB and it loads a new set of data every minute without clearing the old one. So we placed the water sensor for 7 minutes so that the memory will keep loading until it crashes. After it crashes, the flag can be obtained.
+
+![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/6b6599b5-820c-4541-96fd-1241f57cb912)
