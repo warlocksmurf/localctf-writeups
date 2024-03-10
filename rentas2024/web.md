@@ -1,7 +1,7 @@
 # Credits
 @Shen completed all web challenges and even first blooded one of them, so credits for him on the web category writeup.
 
-# Task 1: Bring Your Own Script
+## Task 1: Bring Your Own Script
 Question:
 
 Flag: `RWSC{J4CKP0T}`
@@ -78,7 +78,7 @@ Flag on: https://byos.ctf.rawsec.com/root/%F0%9F%A4%A4%F0%9F%A4%95%F0%9F%98%83/%
 
 ![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/efc696a8-7f06-4431-a017-e89fe3197486)
 
-# Task 2: simplelazy
+## Task 2: simplelazy
 Question:
 
 Flag: `RWSC{S1MPL3_4ND_L4ZY}`
@@ -99,8 +99,7 @@ https://simplelazy.ctf.rawsec.com/index.php?page=php://filter/convert.iconv.UTF8
 
 ![image](https://hackmd.io/_uploads/Hyqx98Baa.png)
 
-
-# Task 3: La Itu Je!
+## Task 3: La Itu Je!
 Question:
 
 Flag: `RWSC{b045887cbadfda25b29db243a18de38cb1cbfb14}`
