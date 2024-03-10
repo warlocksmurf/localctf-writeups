@@ -1,4 +1,4 @@
-# Task 1: Anti-Brute
+## Task 1: Anti-Brute
 Question: Oh no, I forgot the password for my login page. Can you help me to find the password for my admin user. Retrieve it and submit as RWSC{flag}.
 
 We are given a password text file. So just brute force password of admin with list given, password is secretpass.
