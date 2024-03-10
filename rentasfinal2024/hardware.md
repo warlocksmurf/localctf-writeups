@@ -1,4 +1,4 @@
-# Task 1: Water Sensor 
+## Task 1: Water Sensor 
 Question: 
 ```
 ZX Company has released their brand new water sensing Arduino-based device. This innovative system is designed to detect the presence or absence of water using various sensors connected to an Arduino microcontroller board. The device typically includes one or more types of water sensors, such as resistive or capacitive sensors, which are capable of detecting changes in conductivity or capacitance when in contact with water. This advanced technology allows for accurate and reliable water detection, making it suitable for various applications ranging from flood detection to irrigation system management.
