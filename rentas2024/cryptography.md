@@ -1,7 +1,7 @@
 # Credits
 @ren completed the cryptography challenge, so credits for him on the cryptography category writeup.
 
-# Task 1: round and round
+## Task 1: round and round
 Question: i love to eat pizza
 
 Flag: `RWSC{PIZZINI_CIPHER_WAS_EAZY}`
