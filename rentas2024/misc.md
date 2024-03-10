@@ -1,4 +1,4 @@
-# Task 1: Hidden Discord
+## Task 1: Hidden Discord
 Question: Starting point: (https://discord[.]gg/7aMtftbDY4)
 
 Flag: `RWSC{r34d_d15c0rd_d3v3l0p3r_API_r3f3r3nc3}`
