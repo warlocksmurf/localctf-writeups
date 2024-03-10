@@ -104,6 +104,8 @@ Question:
 
 Flag: `RWSC{b045887cbadfda25b29db243a18de38cb1cbfb14}`
 
+![hlgfb](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/c25ef78d-f190-42da-809c-d1ab226af3e6)
+
 We are given a website that has a login form. First we will register an account under /register.php (the endpoint can be fuzzed or located in a comment on the login page).
 
 ![image](https://hackmd.io/_uploads/Hyknj8Hap.png)
