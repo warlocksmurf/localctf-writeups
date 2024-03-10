@@ -1,4 +1,4 @@
-# Task 1: Medellín Cartel
+## Task 1: Medellín Cartel
 Question: Assume that you are working for Law Enforcement, do you really got some IQ to investigate high profile criminals?
 
 Hint(s):
@@ -21,7 +21,7 @@ Then inspect the source code or "Instagram metadata" and just filter the flag. O
 
 ![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/b17be348-364b-44d1-9a73-c8e0a5ef372f)
 
-# Task 2: Cali Cartel
+## Task 2: Cali Cartel
 Question: Unlike Medellin Cartel, the Cali Cartel rootcause of their falldown is clear. This is why knowledge is power!
 
 Flag: `RWSC{C4L1_C4RT3L_PWN3D}`
