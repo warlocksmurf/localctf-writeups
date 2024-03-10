@@ -1,4 +1,4 @@
-# Task 1: Скорпион
+## Task 1: Скорпион
 Question: In one investigation, xxxxxxx actors created two folders in the C:\ drive labeled in and out, which served as a staging directory (central location) for hosting malicious executables. he in folder contained file names in accordance with host names on the victim’s network, likely imported through a scanning tool. The out folder contained various files listed in Table 2 below. For encryption process - After mapping the network, the ransomware encrypts data using a 4096-bit RSA encryption key with a ChaCha20 algorithm. The algorithm features a 256-bit key, a 32-bit counter, and a 96-bit nonce along with a four-by-four matrix of 32-bit words in plain text. Registry modification commands are not obfuscated, displayed as plain-text strings and executed via cmd.exe. The encryptor allows arguments -d (select a directory) and -sr (file deletion), defined by the authors of the code as parseOptions. After the lines of binary strings complete their tasks, they delete themselves through the control panel to evade detection.
 
 ```
