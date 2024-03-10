@@ -110,7 +110,6 @@ We are given a website that has a login form. First we will register an account 
 
 ![image](https://hackmd.io/_uploads/Hyknj8Hap.png)
 
-
 Accessing the get flag endpoint will require a code to be submitted. Vieweing the page source, we can find an obsfucated js file which reveals that we have to send a POST request to dashboard.php to get a valid code.
 
 ![image](https://hackmd.io/_uploads/r11oj8ST6.png)
@@ -122,4 +121,3 @@ After, we were stuck and only once hints were released we solved the chal. The s
 ![image](https://hackmd.io/_uploads/ry9v2Lrpa.png)
 
 ![image](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/14f1a975-5f3e-41e0-81a6-229c3c4b4df4)
-
