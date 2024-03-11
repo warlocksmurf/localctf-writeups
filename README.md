@@ -2,6 +2,7 @@
 ![whoami](https://github.com/warlocksmurf/localctf-writeups/assets/121353711/7b8fa915-2d86-4bea-af6c-fdd5860d01aa)
 
 ## 2024
+* [rENTAS CTF (Finals)](https://github.com/warlocksmurf/ctf-writeups/blob/main/rentas2024)
 * [rENTAS CTF (Preliminary)](https://github.com/warlocksmurf/ctf-writeups/blob/main/rentas2024)
 
 ## 2023
